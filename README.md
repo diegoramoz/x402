@@ -2,5 +2,5 @@
 
 # Facilitator
 
-<a href="https://x402.ramoz.dev/v2" target="_blank" rel="noopener noreferrer">https://x402.ramoz.dev/v2</a>
+<a href="https://x402.diegolosramos.com/v2" target="_blank" rel="noopener noreferrer">https://x402.diegolosramos.com/v2</a>
 
